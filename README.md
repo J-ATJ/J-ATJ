@@ -6,6 +6,11 @@
 -  👨‍💻 Many of my projects are available at my [Portfolio](https://j-atj.github.io/Portafolio/).
 -  ⚽ and 🏎️ are my favorite sports.
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-ATJ&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-ATJ&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <h3 align="left">Languages and tools I've work with:</h3> <br>
 <p align="left"> 
