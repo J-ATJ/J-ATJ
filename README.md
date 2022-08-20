@@ -8,8 +8,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-ATJ&show_icons=true&theme=algolia&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-ATJ&langs_count=8&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-ATJ&langs_count=8&theme=algolia&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <h3 align="left">Languages and tools I've work with:</h3> <br>
