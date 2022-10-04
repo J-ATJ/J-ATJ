@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-ATJ&langs_count=8&theme=github_dark&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<h3 align="left">Languages and tools I've work with:</h3> <br>
+<h3 align="left">Languages and tools I've worked with:</h3> <br>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> 
