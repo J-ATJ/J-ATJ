@@ -7,7 +7,7 @@
 -  ⚽ and 🏎️ are my favorite sports.
 <br>
 
-![](https://komarev.com/ghpvc/?username=J-ATJ&color=2f07ce)
+![](https://komarev.com/ghpvc/?username=J-ATJ&color=2f07ce&style=for-the-badge)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-ATJ&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-ATJ&langs_count=8&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
