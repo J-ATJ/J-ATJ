@@ -2,7 +2,7 @@
 ### Engineer in Digital Sistems and Robotics from Mexico.<br><br>
 💼 🔍 *Currently looking for a first job*.<br><br>
 - 👀 Interested in all related to programming.
--  🌱 I’m learning **Web Development, Back End, Node Js, Express, Java**.
+-  🌱 I’m learning **Web Development, MySQL and Data Science with Python**.
 -  👨‍💻 Many of my projects are available at my [Portfolio](https://j-atj.github.io/Portafolio/).
 -  ⚽ and 🏎️ are my favorite sports.
 <br>
