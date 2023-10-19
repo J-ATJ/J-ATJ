@@ -1,6 +1,6 @@
 # Hi everyone 👋 I'm Jorge<br>
 ### Engineer in Digital Sistems and Robotics from Mexico.<br><br>
-💼 🔍 *Currently looking for a first formal job*.<br><br>
+💼 🔍 *Currently looking for a formal job*.<br><br>
 - 👀 Interested in all related to programming.
 -  🌱 I’m learning **Web Development, MySQL and Data Science with Python**.
 -  👨‍💻 Many of my projects are available at my [Portfolio](https://j-atj.github.io/Portafolio/).
