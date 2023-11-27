@@ -1,4 +1,4 @@
-# Hi everyone 👋 I'm Jorge<br>
+# Hi everyone 👋<br>
 ### Engineer in Digital Sistems and Robotics.<br><br>
 💼 🔍 *Currently looking for a formal job*.<br><br>
 - 👀 Interested in all related to programming.
