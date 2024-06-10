@@ -1,5 +1,5 @@
 # Hi everyone 👋<br>
-### Engineer in Digital Sistems.<br><br>
+### Engineer in Robotics & Digital Systems.<br><br>
 💼 🔍 
 - 👀 Interested in all related to programming.
 -  🌱 I’m learning **Web Development, MySQL and Data Science with Python**.
