@@ -9,8 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=J-ATJ&color=2f07ce&style=for-the-badge)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-ATJ&show_icons=true&theme=neon&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-ATJ&langs_count=8&theme=neon&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-ATJ&show_icons=true&theme=catppuccin_latte&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-ATJ&langs_count=8&theme=catppuccin_latte&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
