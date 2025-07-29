@@ -13,38 +13,95 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-ATJ&langs_count=8&theme=neon&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
 <h3 align="left">Languages and tools I've worked with:</h3> <br>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
-    </a> &nbsp&nbsp&nbsp 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
-    </a>&nbsp&nbsp&nbsp
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp  
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp  
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/> 
-    </a>&nbsp&nbsp&nbsp
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/python.svg" alt="python" width="40" height="40" /> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/fastapi.svg" alt="fastapi" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/django.svg" alt="django" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/djangorest.svg" alt="djangorest" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/pytest.svg" alt="pytest" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/jupyter.svg" alt="jupyter" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/pandas.svg" alt="pandas" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/numpy.svg" alt="numpy" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/matplotlib.svg" alt="matplotlib" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/seaborn.svg" alt="seaborn" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/scikitlearn.svg" alt="scikitlearn" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/keras.svg" alt="keras" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/streamlit.svg" alt="streamlit" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/opencv.svg" alt="opencv" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/mediapipe.svg" alt="mediapipe" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/sqlalchemy.svg" alt="sqlalchemy" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/mysql.svg" alt="mysql" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/react.svg" alt="react" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/javascript.svg" alt="javascript" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/tailwind.svg" alt="tailwind" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/vite.svg" alt="vite" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/node.svg" alt="node" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/express.svg" alt="express" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/powerbi.svg" alt="powerbi" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/figma.svg" alt="figma" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/gimp.svg" alt="gimp" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/trello.svg" alt="trello" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/blender.svg" alt="blender" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/freecad.svg" alt="freecad" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/J-ATJ/frostnova/blob/gh-pages/assets/vscode.svg" alt="vscode" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
