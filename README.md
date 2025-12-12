@@ -3,7 +3,7 @@
 💼 🔍 
 - 👀 Interested in all related to programming.
 -  🌱 I’m learning **Web Development, MySQL and Data Science with Python**.
--  👨‍💻 Many of my projects are available at my [Portfolio](https://j-atj.github.io/frostnova/).
+-  👨‍💻 Many of my projects are available at my [Portfolio](https://j-atj.github.io/jport25/).
 -  ⚽ and 🏎️ are my favorite sports.
 <br>
 
